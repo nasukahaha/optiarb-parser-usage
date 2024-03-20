@@ -1,0 +1,25 @@
+{
+  "name": "optiarb-parser-usage",
+  "version": "1.0.0",
+  "description": "Utilize an arbitrage parser for efficient data handling and analysis.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nasukahaha/optiarb-parser-usage"
+  },
+  "author": "nasukahaha",
+  "license": "MIT",
+  "dependencies": {
+    "optiarb-parser": "1.0.0",
+    "optiarb-parser-usage": "1.0.0",
+    "sequelize": "1.0.0",
+    "jquery": "1.0.0",
+    "sinon": "1.0.0",
+    "web3-react": "1.0.0",
+    "validator": "1.0.0",
+    "react-redux": "1.0.0"
+  }
+}
